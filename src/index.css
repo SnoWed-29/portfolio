@@ -6,3 +6,6 @@
 body {
   background-color: #000300;
 }
+.active-button {
+  border-bottom: 2px solid #00df9a;
+}
